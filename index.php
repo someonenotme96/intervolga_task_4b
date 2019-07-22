@@ -4,7 +4,7 @@ include "data_base_class.php";
 $db = new DataBase();
 
 
-//Вызов
+//Вызов формы показа стран
 if (isset($_POST['show']))
     {
     
