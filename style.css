@@ -1,0 +1,88 @@
+.main {
+    background-image: url(sam_kr_mor.jpg);
+}
+
+h1 {
+    left: 35px;
+    position: relative;
+    color: Wheat;
+    text-shadow: Navy 2px 3px 4px;
+}
+
+.container {
+    max-width: 450px;
+    margin: 0 auto;
+}
+
+.countrySelect {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.countrySelect input {
+    background-color: DodgerBlue;
+    left: 15px;
+    font-size: 15px;
+    margin-right: 10px;
+    position: relative;
+    color: white;
+    padding: 10px;
+    border-radius: 15%;
+}
+
+.create_country {
+    margin-right: 50px;
+    position: relative;
+    left: 85px;
+}
+
+.button_create {
+    background-color: DodgerBlue;
+    right: 3px;
+    font-size: 15px;
+    margin-top: 30px;
+    margin-right: 10px;
+    position: relative;
+    color: white;
+    padding: 10px;
+    border-radius: 15%;
+}
+
+p {
+    font-size: 18px;
+    border-radius: 75%;
+    font-weight: 1000;
+    padding: 7px;
+    background-color: #AFCDE7;
+    color: rgba(20, 20, 1, 0.993);
+    text-align: center;
+    margin-right: 220px;
+}
+
+.button_create:hover {
+    border: 2px solid grey;
+}
+
+.countrySelect input:hover {
+    border: 2px solid grey;
+}
+
+td,
+th {
+    border: 1px solid grey;
+    padding: 10px;
+    text-align: center;
+}
+
+td {
+    background-color: #D8E6F3;
+}
+
+th {
+    background-color: #AFCDE7;
+}
+
+.table1 {
+    display: block;
+    position: relative;
+}
